@@ -18,7 +18,7 @@ Aluninho de jogos aprendendo a fazer um portfólio
 
 # Games
 
-[![](Ivern_Render.png)](https://pbs.twimg.com/media/DHfTQCrVwAAHzMM.jpg)
+[![](Ivern_Render.png)](https://pbs.twimg.com/media/DHfTQCrVwAAHzMM.jpg)  
 [JOGO1]()
 
 # Projetos
